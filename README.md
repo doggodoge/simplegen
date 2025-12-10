@@ -1,4 +1,6 @@
-# simplegen ⚙️
+Archived on GitHub and moved to https://git.sr.ht/~gary_moore/simplegen
+
+    # simplegen ⚙️
 
 simplegen is a simple code generator library.
 
